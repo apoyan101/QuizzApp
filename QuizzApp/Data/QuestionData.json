@@ -1,0 +1,24 @@
+[
+  {
+    "question": "What is the keyword for declaring a new variable",
+    "answers": [
+      "var",
+      "let",
+      "func",
+      "variable"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "var is the keyword for declaring a new variable"
+  },
+  {
+    "question": "What is the keyword for declaring a constant variable",
+    "answers": [
+      "var",
+      "let",
+      "const",
+      "variable"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "let is the keyword for declaring a new variable"
+  }
+]
